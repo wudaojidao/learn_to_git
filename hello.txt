@@ -6,6 +6,10 @@ d = 5;
 
 this is br4 branch info
 
+<<<<<<< HEAD
 
 
-git checkout -b cd master
+
+=======
+git checkout -b cd 
+>>>>>>> cd
