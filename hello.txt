@@ -8,3 +8,5 @@ this is br4 branch info
 
 git checkout -b cd 
 >>>>>>> cd
+
+change to github 
