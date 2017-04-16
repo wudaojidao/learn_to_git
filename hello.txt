@@ -10,4 +10,4 @@ git checkout -b cd
 >>>>>>> cd
 
 change and 
-git push 
+git push -u origin master
